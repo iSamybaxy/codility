@@ -1,4 +1,3 @@
-
 //'https://app.codility.com/demo/results/trainingZHDRTV-5HC/';
 function solution(N) {
     let base = N.toString(2);

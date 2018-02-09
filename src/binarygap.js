@@ -1,4 +1,5 @@
 //https://app.codility.com/demo/results/trainingHN3YTC-AHD/
+//was pretty easy
 function solution(N) {
     let base = N.toString(2);
     

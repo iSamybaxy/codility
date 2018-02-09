@@ -10,7 +10,7 @@ function solution(A) {
     }
 }
 
-//Prefer this solution which is more performant
+//Prefer this solution which is 100% performant
 //https://app.codility.com/demo/results/trainingA5NBKT-GZH/
 function solution(A) {
     //we'll use the bitwise xor operator which should be more performant

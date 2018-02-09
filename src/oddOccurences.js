@@ -22,3 +22,4 @@ function solution(A) {
     
     return num;
 }
+//Bitwise operators treat their operands as a sequence of 32 bits (zeroes and ones)
